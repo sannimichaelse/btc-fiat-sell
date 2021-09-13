@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+tmp/
+temp/
+
+log/*
+!log/.gitkeep 
+
+.env
+.DS_Store
+src/.DS_Store
