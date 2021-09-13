@@ -78,14 +78,5 @@ Run the tests
 
 -   [Postman Collection](https://documenter.getpostman.com/view/3064040/U16ks5oQ)
 
-## Demo
-[Bitcoin-Fiat-Sell Demo](https://www.loom.com/share/8d661dc5e2fd4afa8460f491a78afe4b)
-
-## Improvements
-
-- Queuing the transactions using RABBITMQ to ensure no request is lost and every transaction is processed when there are lots of requests coming in at the same time
-- Caching Plaid API Calls - This would drastically improve the response time of plaid endpoints
-- Writing more test
-- Build a small UI for Linking bank accounts
 
 
